@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 -By iamnick</div>
+                <div class="title">Laravel 5 -By iamnickTest</div>
             </div>
         </div>
     </body>
